@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LEGO Bingo</string>
+    <string name="service_name">LEGO Bingo Live</string>
+    <string name="subtitle_bingo_lottery">Pantalla de Bingo &amp; Lotería en Vivo HD</string>
+</resources>

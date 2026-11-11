@@ -1,0 +1,8 @@
+{
+  "name": "LEGO Bingo",
+  "description": "Pantalla interactiva en alta definición de LEGO Bingo y Lotería en vivo con cartones, balotera moderna, tienda de puntos en USD y premios espectaculares.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
